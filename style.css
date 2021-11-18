@@ -1,0 +1,67 @@
+*{
+    box-sizing: 25vh;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #ECDBED;
+
+}
+
+.superior{
+    height: 25vh;
+    background-color: #0185E0;
+    text-align: center;
+    padding-top: 30px;
+}
+
+    
+.logueo{
+    width: 400px;
+    height: 370px;
+    border-radius: 7px;
+    background-color: white;
+    margin: auto;
+    border: solid;
+    margin-top: -80px;
+}
+
+.image{
+    width: 90px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-70%);
+}
+
+form{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 65%; left: 50%;
+    transform: translate(-25%,-70%);
+}
+.login{
+    background-color:#0185E0;
+    margin-top: 20px;
+    border-radius: 3px;
+    width: 80px;
+    height: 30px;
+    position: absolute;
+}
+.username{
+    padding-top: 0;
+    width: 200px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+}
+
+.password{
+    padding-top: 0;
+    width: 200px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+}

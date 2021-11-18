@@ -1,0 +1,30 @@
+@media(min-width: 576px){
+    body{
+        font-size:1.18rem
+    }
+}
+@media(min-width: 992px){
+
+    .superior{
+       
+        background: rgb(205, 194, 216);
+        transition: background 2s;  
+    }
+    body{
+        font-size: 1.28rem;
+    }
+    .logueo {
+        width: 600px;
+        height:350px;
+          
+    }
+    
+}
+
+@media(min-width: 1200px){
+
+    body{
+        
+        font-size: 1.5rem;
+    }
+}
